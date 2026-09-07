@@ -51,15 +51,18 @@ The system analyzes quiz results and calculates:
 ```text
 src/
     Java source files
+    Nodes.java
+    Student.java
+    Login.java
+    QuizLinkedList.java
+    FinalProject.java
+    Instructor.java
 
 data/
-    User information
-    Question bank
-    Answer data
+    UsersInfo
+    TestBank
+    Answers
 
-screenshots/
-    Application screenshots
-```
 
 ## Data Structures
 
